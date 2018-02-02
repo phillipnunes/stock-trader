@@ -1,6 +1,6 @@
 # stock-trader
 
-> A Vue.js project
+> Let's learn some Vue
 
 ## Build Setup
 
