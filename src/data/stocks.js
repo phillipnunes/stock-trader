@@ -1,6 +1,6 @@
 export default [
-  {id: 1, name: 'AAA', price: 123},
-  {id: 2, name: 'BBB', price: 1231},
-  {id: 3, name: 'CCC', price: 2345},
-  {id: 4, name: 'DDD', price: 654}
-]
+    { id: 1, name: 'BMW', price: 110 },
+    { id: 2, name: 'Google', price: 200 },
+    { id: 3, name: 'Apple', price: 250 },
+    { id: 4, name: 'Twitter', price: 8 }
+];
